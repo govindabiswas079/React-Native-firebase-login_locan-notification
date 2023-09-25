@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284545862082",
+    "firebase_url": "https://nativefirebase-23309-default-rtdb.firebaseio.com",
+    "project_id": "nativefirebase-23309",
+    "storage_bucket": "nativefirebase-23309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284545862082:android:46194d21afddafd75bae5b",
+        "android_client_info": {
+          "package_name": "com.nativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284545862082-654r4jt4djvmahisdek9cm2sc1dph9ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativefirebase",
+            "certificate_hash": "bc3abb4b8f9b3352c747df5a1717ad518458373c"
+          }
+        },
+        {
+          "client_id": "284545862082-5adump0p2q3tg4t5nmhba7s7j1tvbjhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpdPD9SmtOG7d0ru4_fV2VWSaQxYY29is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284545862082-5adump0p2q3tg4t5nmhba7s7j1tvbjhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
